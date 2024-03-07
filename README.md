@@ -5,4 +5,6 @@
 - Para ejecutar el sistema debes cololcar bien los datos de inicio
   ```np install react```
 
+  Sistema de registro 2
+
   
